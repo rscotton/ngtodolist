@@ -1,0 +1,1 @@
+angular.module('todoListApp', []); // second param = dependency list. Leave blank to create new module
